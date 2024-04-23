@@ -10,7 +10,7 @@ from PIL import Image, ImageTk
 warnings.filterwarnings("ignore")
 
 # Load the model
-model = load_model("C:/Users/RIJU/Downloads/model.h5")
+model = load_model("ml models/model_5.h5")
 
 # Load the cascade
 face_haar_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
