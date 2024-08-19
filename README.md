@@ -4,7 +4,7 @@
 Develop a real-time emotion detection system that operates on streaming video data and identifies the predominant emotion in each frame.
 
 ### 📂 Project Files:
-- **`README.md`** - Updated to include project details and instructions. [Latest commit: 05c0f57](https://github.com/Anidipta/Google-Solution-23/commit/05c0f57)
+- **`README.md`** - Updated to include project details and instructions. 
 - **`null_5 (1).ipynb`** - Jupyter notebook for emotion detection analysis.
 - **`Task 5 Report.pdf`** - Detailed report of Task 5.
 - **`null 5 app.py`** - Python script for the real-time emotion detection app.
